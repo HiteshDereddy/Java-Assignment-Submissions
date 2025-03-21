@@ -1,0 +1,13 @@
+<dependencies>
+    <dependency>
+        <groupId>org.example</groupId>
+        <artifactId>example-library</artifactId>
+        <version>1.0</version>
+        <exclusions>
+            <exclusion>
+                <groupId>org.unwanted</groupId>
+                <artifactId>unwanted-library</artifactId>
+            </exclusion>
+        </exclusions>
+    </dependency>
+</dependencies>

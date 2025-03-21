@@ -1,0 +1,1 @@
+A multi-module Maven project consists of a parent POM that manages multiple submodules, each with its own POM.xml.
